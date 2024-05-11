@@ -1,0 +1,17 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "API for SPA Breaknews",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Raphael Vitorio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
